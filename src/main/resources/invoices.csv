@@ -1,0 +1,1001 @@
+name,last_name,amount,discount,location
+Miquela,Vale,400.09,8,Francistown
+Kirstin,Kesley,734.86,6,Patna
+Malina,Ulphia,593.11,27,Zagreb
+Cristabel,Delp,808.56,13,Palembang
+Maud,Gaspard,15.79,20,Guadalajara
+Annabela,Ricarda,9.38,70,Calama
+Brana,Fancie,86.98,20,Port Elizabeth
+Ingrid,Capello,695.29,49,Zamboanga City
+Hallie,Albertine,292.83,41,Dongguan
+Priscilla,Stoller,917.87,99,Honiara
+Ernesta,Fontana,68.93,43,Chicago
+Paola,Goode,242.65,47,Shenzhen
+Nyssa,Faso,205.71,60,Banjul
+Sallie,Waite,11.28,93,Assis
+Cordi,Vale,121.47,78,Changchun
+Kirstin,Goddard,951.87,76,Brazzaville
+Tori,Isacco,807.36,24,Port of Spain
+Yolane,Harl,908.61,67,Hamilton
+Lindie,Colleen,349.24,82,Mandurah
+Fayre,Callista,107.36,95,Kingston
+Coral,Kinnard,585.55,90,Chihuahua
+Fernande,Oscar,739.56,33,Dodoma
+Verla,Hedve,224.73,46,Addis Ababa
+Alex,Nunci,884.73,70,Port Vila
+Laurene,Vins,532.49,94,Tampa
+Aryn,Bandeen,826.19,82,Jeddah
+Althea,Fry,290.77,94,Surat
+Allis,Dearborn,361.27,6,Simferopol
+Annaliese,Behre,213.58,89,Adelaide
+Gianina,Egbert,738.52,59,Charlotte Amalie
+Christal,Autrey,219.15,10,Brisbane
+Alleen,Felecia,823.01,44,South Tarawa
+Aimil,Tengdin,732.88,85,Bogotá
+Fina,Loring,483.37,97,Wichita
+Georgina,Persse,895.99,38,Las Palmas de Gran Canaria
+Bernardine,Alcott,422.38,31,Guwahati
+Cassandra,Glenden,91.29,38,Port Hedland
+Laure,Ledah,340.05,15,Edmonton
+Marita,Alarise,252.9,91,Rome
+Randa,Codding,731.65,6,Johor Bahru
+Caressa,Carmena,878.58,72,Tamale
+Natka,Ventre,244.04,23,Magadan
+Valeda,Janith,986.83,75,Majuro
+Shandie,Latini,356.37,2,Austin
+Dode,Stevy,311.44,34,Sofia
+Julieta,Burnside,476.09,51,Malang
+Selia,Suzetta,236.61,1,Nice
+Katleen,Merriott,241.15,34,Ottawa
+Briney,Lissi,468.96,68,Saint-Pierre
+Pearline,Strephon,748.96,86,Naypyidaw
+Tera,Zola,246.91,46,Tucson
+Corry,Hilbert,457.95,99,Accra
+Ellette,Slifka,221.98,89,Bogotá
+Claudina,Rogerio,270.03,98,Blantyre
+Rebeca,Standing,892.11,13,Tórshavn
+Devina,Celestine,125.27,25,Birkirkara
+Mireielle,Havens,934.89,92,Kaliningrad
+Ursulina,Connelly,628.85,67,Tunis
+Petronia,Schwejda,436.27,18,Zürich
+Arlena,Howlyn,715.56,94,Philadelphia
+Jorry,Leary,907.1,3,Santa Cruz de la Sierra
+Chrystel,Gahl,937.71,29,Ljubljana
+Roxane,Scammon,919.93,84,Xining
+Ursulina,Sheedy,712.52,36,Kingstown
+Tonia,Alexandr,157.61,61,Fukuoka
+Carilyn,Blisse,479.33,77,Weno
+Roslyn,Alarise,581.67,98,Quito
+Frances,Jenness,526.52,34,Sukhumi
+Antonietta,Garek,468.13,60,Osaka
+Candy,Pulsifer,530.3,45,Nukulaelae
+Pamella,Charmine,51.27,76,Boston
+Daune,Odysseus,255.65,43,Providence
+June,Genna,74.96,56,London
+Micheline,Sikorski,501.16,82,Jersey City
+Nicoli,Wenda,683.02,12,Santiago de Cuba
+Lizzie,Etom,419.17,45,Saskatoon
+Aubrie,Luhe,336.62,96,Bergen
+Eve,Winnick,5.19,45,Doha
+Amii,Amand,958.19,51,Belém
+Catharine,Buffum,716.56,78,City of Halifax
+Blondelle,Jobi,956.9,20,Yerevan
+Phylis,Kalinda,205.85,53,Ulan Bator
+Jenda,Ephrem,594.52,88,Magadan
+Tracey,Amadas,564.48,8,Split (city)
+Nita,Cecile,794.14,67,Shillong
+Bertine,Anastatius,567.54,32,Kaliningrad
+Dione,Connelly,671.17,7,Kawasaki
+Ursulina,Gert,927.58,28,Tallinn
+Farrah,Fairweather,607.97,11,Stockholm
+Micheline,Chandler,384.17,12,Incheon
+Mureil,Shaver,180.11,64,Kansas City
+Marcelline,Lynn,706.59,97,Rochester
+Oralee,Kellby,572.25,43,Weno
+Jenda,Buffum,448.98,100,Salzburg
+Alisha,Hessler,304.72,10,Abu Dhabi
+Nerta,Oriana,546.9,89,Multan
+Chastity,Stav,399.22,72,Avarua
+Valli,Parsaye,228.49,59,Saint-Pierre
+Lisette,Azeria,450.68,23,Quebec City
+Gianina,Grayce,23.13,38,Ottawa
+Hildegaard,Kirbee,15.46,82,Luxembourg (city)
+Karlee,Clarissa,255.65,72,Pelotas
+Beth,Narton,195.08,15,Nukulaelae
+Cyb,Pandolfi,27.43,13,Kinshasa
+Jennica,Anastatius,23.86,93,Tashkent
+Katleen,Boycey,962.96,41,Birkirkara
+Correy,Gaulin,763.84,11,Chittagong
+Shirlee,Helve,782.24,21,Phoenix
+Rhea,Libna,591.9,80,Chiang Mai
+Cyndie,Philipp,405.74,86,Recife
+Marylou,Harl,144.17,32,Vilnius
+Randa,Crudden,601.86,9,Funafuti
+Hayley,Sprage,821.95,27,Monaco
+Taffy,Stanwood,28.03,55,Malmö
+Emylee,Mayeda,376.86,12,Thiès
+Adore,Center,314.1,69,Cairo
+Modestia,Naor,560.34,24,Pune
+Phylis,Mathilde,249.24,20,Saipan
+Cacilie,Kesley,792.29,42,Cairo
+Elyssa,Desai,258.71,37,Honolulu
+Chandra,Old,388.73,75,Lomé
+Jany,Wu,658.91,15,Salzburg
+Elena,Bibi,323.93,72,Ludhiana
+Catharine,Ariella,730.64,12,Valletta
+Marcy,Esmaria,184.26,45,Sydney
+Leia,McLaughlin,747.78,88,Dar es Salaam
+Jobi,Brotherson,656.29,60,Jinan
+Annora,Jarib,619.4,71,Jersey City
+Juliane,Ophelia,466.66,73,Taiyuan
+Calla,Malvino,549.25,60,Bilbao
+Collen,McGrody,210.79,44,Douala
+Oona,Hull,882.69,19,Adak
+Gianina,Penelopa,177.58,100,Weno
+Rosene,Schroth,903.43,78,Vatican City
+Glenda,Rustice,903.22,89,San Carlos de Bariloche
+Marika,Ummersen,170.19,56,Blantyre
+Leontine,Thornburg,480.04,5,Moscow
+Malina,Nedrud,234.29,22,Omsk
+Cathie,Othilia,26.56,60,Belfast
+Edith,Charmine,800.73,9,Pittsburgh
+Bernie,Norrie,791.34,61,Boa Vista
+Fernande,Cimbura,215.04,87,Patna
+Kylynn,Bobbee,932.93,24,Fredericton
+Romona,Janith,794.91,99,San Francisco
+Annecorinne,Genna,447.63,100,Dar es Salaam
+Kaja,Firmin,867.19,34,George Town
+Heida,Kunin,748.8,33,Maracaibo
+Tilly,Evangelia,396.32,36,Saipan
+Ricky,Reinke,795.49,63,Timbuktu
+Brandise,Kenwood,481.09,86,Maseru
+Celene,Leopold,58.84,59,Wichita
+Robinia,Cynar,900.91,32,Daegu
+Blondelle,Toor,738.38,15,Tiraspol
+Corry,Lytton,943.54,37,Belém
+Elmira,Joni,876.49,59,Oklahoma City
+Cacilie,Zachary,910.47,30,Ibadan
+Reeba,Jehu,889.62,27,Belize City
+Ardenia,Pierette,494.73,43,Lisbon
+Sidoney,Whiffen,532.92,87,Douglas
+Althea,Abernon,99.23,93,San Salvador
+Alie,Blisse,519.31,21,Minsk
+Gloria,Hull,487.65,80,San Carlos de Bariloche
+Quintina,Sekofski,582.78,97,Podgorica
+Aryn,Brady,776.54,15,Handan
+Kirbee,Ventre,442.6,61,Zagreb
+Roberta,Vorster,102.55,43,Hanoi
+Ottilie,Wandie,902.54,100,Lusaka
+Gale,Ferrell,300.05,40,Lanzhou
+Amalie,Bollay,884.44,31,Lilongwe
+Kellen,Eugenia,42.22,79,City of Halifax
+Konstance,Prober,322.38,56,Cardiff
+Malina,Thad,217.06,92,Majuro
+Clementine,Elisha,127.15,52,Murmansk
+Shaylyn,Katrine,392.05,90,Nouméa
+Melina,Bow,911.65,96,Santo Domingo
+Ardenia,Secrest,960.04,55,Chaguanas
+Gerrie,Janene,156.13,74,Guangzhou
+Hayley,Annice,348.14,72,Zanzibar City
+Danika,Nicoline,63.58,22,San Carlos de Bariloche
+Barbara,Love,320.11,41,Dammam
+Suzette,Yate,150.15,85,Stuttgart
+Jasmina,Jethro,99.69,19,Nairobi
+Devina,Jacobah,294.78,69,Darwin
+Hollie,Secrest,9.22,60,Nuuk
+Silvana,Shaddock,328.81,27,Ndola
+Madelle,Rad,110.1,58,Brazzaville
+Livvyy,Solitta,895.19,58,Warsaw
+Margette,Guthrie,924.66,41,Forked River
+Bibby,Glovsky,84.76,50,Podgorica
+Dolli,Dimitris,51.82,11,Gothenburg
+Tracey,Ackerley,816.89,23,Tampa
+Emelina,Klemperer,719.99,5,Maputo
+Kaia,Teryn,586.07,46,Ashgabat
+Albertina,Jagir,918.29,14,Córdoba
+Dulce,Janith,279.04,10,San Fernando
+Modestia,Alabaster,130.99,56,Mexico City
+Merrie,Tengdin,589.18,41,Rawalpindi
+Flory,Vorster,153.92,19,Mogadishu
+Tobe,Gamaliel,333.04,80,New York City
+Linet,Stevy,935.5,51,Ibiza
+Lucille,Berl,768.84,32,Incheon
+Cordi,Masao,565.66,53,Detroit
+Thalia,Lamoree,547.39,2,Bratsk
+Estell,Ingra,877.68,24,Iqaluit
+Krystle,Screens,68.67,55,Rotterdam
+Emilia,Plato,846.55,69,Ipoh
+Roslyn,Ursulette,113.16,77,Praia
+Judy,Weaks,517.26,76,Guwahati
+Genovera,Vharat,147.65,42,Mexico City
+Roseline,Standing,984.09,80,Shanghai
+Tamqrah,Salchunas,95.34,58,Auckland
+Fanny,Ralfston,523.04,34,Porto Velho
+Marleah,Dorine,439.93,62,Jaipur
+Tilly,Gino,65.81,2,Kuching
+Cam,Alrich,424.53,36,Jacksonville
+Lisette,Lucienne,817.02,90,Ljubljana
+Glynnis,Rocray,304.98,54,Seoul
+Lila,Korey,209.85,61,Lisbon
+Chloris,Melan,436.83,83,Tiraspol
+Marguerite,Vanni,638.82,41,Labasa
+Anestassia,McCutcheon,730.9,50,Kabul
+Arlina,Raffo,373.44,66,Guwahati
+Corina,Reneta,111.43,20,Prague
+Coral,Herrera,246.4,70,Pune
+Renae,Lia,572.67,47,Santiago de Cuba
+Meg,Lanita,982.86,68,Yangon
+Chandra,Kristi,327.52,22,Bandung
+Mary,Vacuva,127.54,86,Leipzig
+Jerry,Linehan,196.95,57,Nairobi
+Imojean,Eliathas,660,48,Providence
+Lynde,Franza,888.87,6,Tripoli
+Sue,Monaco,258.98,39,Freetown
+Fanchon,Candy,801.14,35,Indianapolis
+Cristabel,Abbot,60.79,29,Toulouse
+Meg,Juan,492.49,52,Melekeok
+Danika,Anton,836.27,30,Hobart
+Starla,Beebe,193.17,24,San Francisco
+Georgetta,Philoo,842.72,21,Lucknow
+Kary,Screens,40.19,39,La Paz
+Sheelagh,Susannah,408.6,63,Dallas
+Lynde,Simmonds,802.02,63,Aberdeen
+Kristina,Wadell,357.77,48,São Tomé
+Johna,Schonfeld,612,93,Accra
+Kalina,Tryck,376.93,90,Kigali
+Tina,Erskine,936.54,40,Apia
+Ninnetta,Eldrid,801.66,15,Brussels
+Daune,Vilma,435.69,90,Ndola
+Hermione,Wind,793.08,57,New York City
+Jordan,Kress,352.33,35,Nizhny Novgorod
+Addia,Aloise,846.99,89,Rabat
+Glenda,Schenck,594.59,26,São José dos Campos
+Lynea,Irmine,662.44,48,Ndola
+Peri,Ivens,950.37,62,Beirut
+Jacquetta,Aldric,480.29,88,Hagåtña
+Jemie,Dorothy,901.88,55,Luxembourg (city)
+Libbie,Prober,867.75,40,Chennai
+Jasmina,Anselmi,412.65,12,Christchurch
+Amara,Neva,658.34,100,Hangzhou
+Silvana,Quinn,213.05,54,Lhasa
+Aigneis,Albertine,795.11,40,Hyderabad
+Beth,Sadowski,529.42,77,Koulikoro
+Delilah,Burch,839.86,49,Frankfurt
+Camile,Monaco,974.8,10,Puebla
+Agathe,Lilybelle,393.65,43,Patna
+Winifred,Truc,888.96,18,Zürich
+Merrie,Fennessy,759.73,6,Winnipeg
+Rani,Shields,873.74,71,Paris
+Cam,Georgy,2.94,14,Yaoundé
+Valeda,Kirbee,370.12,80,Saint-Denis
+Frieda,Stav,872.83,79,Chaguanas
+Mariann,Dudley,872.68,10,Simferopol
+Melina,Hoban,743.21,92,Handan
+Dorice,Gusella,155.6,31,Road Town
+Loree,Mich,445.78,2,Boa Vista
+Christy,Roarke,827.08,5,Baltimore
+Chandra,Valoniah,307.74,55,Kandahar
+Genevra,Santoro,441.68,97,Strasbourg
+Barbara,Cressida,325.16,2,Pago Pago
+Rozele,Ochs,867.71,58,El Paso
+Julieta,Hailee,712.45,8,Makassar
+Konstance,Verger,771.11,28,Wuhan
+Sarette,Love,611.69,16,Stockholm
+Carilyn,Hull,989.75,14,Hat Yai
+Katleen,Luhe,910.46,7,Chongjin
+Albertina,Aida,652.25,22,Multan
+Zondra,Aloise,387.11,62,Ipoh
+Meriel,Ashely,130.32,88,Tokyo
+Cecile,Lea,158,87,Adana
+Georgetta,Ralfston,499.39,4,Invercargill
+Joy,Honoria,622.54,32,Pittsburgh
+Edyth,Argus,787.64,54,Chennai
+Damaris,Johnsson,190.39,99,Kuala Lumpur
+Albertina,O'Neill,631.47,54,Yekaterinburg
+Shannah,Alejoa,237.54,14,Prague
+Aili,Libna,33.8,94,Copenhagen
+Lindie,Pyle,782.24,16,Port Moresby
+Kayla,Federica,493.85,91,Palma
+Gabi,Modie,1.96,55,Istanbul
+Mamie,Lynn,210.87,9,Wuhan
+Iseabal,Cristi,316.54,4,Wuhan
+Livvyy,Eugenia,272.87,27,Nuuk
+Catrina,Felizio,301.9,65,Paramaribo
+Elfreda,Toffic,263.26,62,Thiès
+Cathie,Stanwood,971.63,41,Boston
+Hettie,Ludewig,29.65,77,Salzburg
+Flo,Flita,375.11,71,Santa Cruz de la Sierra
+Eolanda,Rese,63.56,64,Tbilisi
+Aubrie,Corabella,782.52,90,Providence
+Blondelle,Dalli,738.49,97,Agartala
+Riannon,Katrine,22.1,21,Valletta
+Livvyy,Neva,823.92,48,Port-au-Prince
+Grier,Parette,713.72,87,Bandar Seri Begawan
+Jenda,Alisia,227.39,64,Maracaibo
+Dianemarie,Sinegold,875.93,82,Dakar
+Amelia,Cyrie,30.04,65,Sapporo
+Corina,Cottle,615,31,Ulan Bator
+Larine,Delp,950.43,46,Yekaterinburg
+Ermengarde,Flyn,143.38,28,Kanpur
+Heida,Niles,271.44,68,Milwaukee
+Kelly,Kesley,101.73,2,Cologne
+Norine,Hurley,438.09,75,Columbus
+Lelah,Taima,358.84,30,Bern
+Goldie,Shaddock,53.71,9,Hanga Roa
+Mallory,Darian,113.27,86,Kobe
+Merry,Delp,28.77,44,Kuwait City
+Phylis,Ramona,916.51,23,Tbilisi
+Lanna,Ramona,88.05,92,Arbil
+Lorie,Palocz,231.65,92,Tampere
+Sibella,Georas,101.16,45,Road Town
+Petronia,McLaughlin,820.55,69,Sana'a
+Agathe,Burnside,561.37,47,Moscow
+Kimmy,Brenn,459.55,59,Bujumbura
+Claresta,Amethist,35.52,55,Innsbruck
+Georgina,Hieronymus,307.31,15,Shenzhen
+Jenilee,Erskine,604.32,35,Chişinău
+Meriel,Colleen,989.27,97,Hanga Roa
+Angelique,Armanda,839.78,23,Nukuʻalofa
+Kalina,Longfellow,443.57,10,Kingston
+Marti,Raama,628.77,76,Port Louis
+Jasmina,Leonard,783.01,61,Calgary
+Bobbi,Stuart,388.07,99,Harare
+Mariele,Shaddock,151.8,9,Chicago
+Tomasina,Posner,653.19,80,Karachi
+Danny,Tayib,666.25,17,Dubai
+Alie,Haerr,874.65,72,Kaohsiung
+Brooks,Clarissa,791.05,81,Hat Yai
+Almeta,Dalli,895.02,4,São Tomé
+Keelia,Bearnard,797.53,81,Durango
+Sindee,Brian,899.58,10,Hilo
+Daphne,Ardra,847.25,80,Malmö
+Heida,Lytton,636.11,69,Kinshasa
+Cecile,Anestassia,643.77,8,Livingstone
+Ulrike,Carolin,343.04,1,Johor Bahru
+Jeanna,Gaspard,115.04,88,Jaipur
+Thalia,Buckler,297.42,23,Changchun
+Ginnie,Girardo,466.75,18,Doha
+Shandie,Libna,113.71,69,Chihuahua
+Laurene,Nicoline,789.04,89,Saint John
+Modestia,Giule,950.06,67,Abuja
+Meg,Atonsah,654.51,16,Quito
+Cyndie,Rhu,825.27,76,Chuí
+Rochette,Marcellus,923.14,29,Sofia
+Angelique,Mozelle,483.07,17,Nicosia
+Carmela,Sigfrid,51.98,5,Anadyr (town)
+Nariko,Cynar,649.23,99,Munich
+Celisse,Bigner,204.46,93,Lucknow
+Aubrie,Tannie,935.98,79,Saint John
+Phedra,Lasley,355.65,91,Kaliningrad
+Binny,Himelman,858.19,52,San Fernando
+Joceline,Presber,898.54,74,Canberra
+Maridel,Rona,575.28,55,Pristina
+Myrtice,Kussell,774.55,90,Adelaide
+Cyb,Rogerio,171.73,16,Cincinnati
+Genovera,Ade,204.64,30,Kathmandu
+Charlena,Wenda,218.82,7,Nassau
+Gretal,Vilma,350.28,89,Yangon
+Selma,Sothena,833.54,62,Bamako
+Mireielle,Jefferey,712.68,95,Johannesburg
+Lita,Truc,907.49,55,Saskatoon
+Mahalia,Hamil,147.2,58,Jinan
+Farrah,Maxi,64.72,26,Lusaka
+Oona,Uird,242.58,46,Lucknow
+Priscilla,Xerxes,279.88,38,Munich
+Aurelie,Rad,338.13,16,Lobamba
+Silvana,Arne,472.79,83,Jeddah
+Queenie,Lindemann,753.96,18,Road Town
+Bernie,Mathilde,970.27,7,Honolulu
+Perry,Laverne,776.07,94,Mexicali
+Marleah,Lucienne,531.95,68,Leipzig
+Coral,Stelle,357.33,71,Belmopan
+Judy,Harl,153.97,26,Munich
+Stephanie,Genna,303.03,80,Port Louis
+Renie,Harned,956.18,47,Sacramento
+Phedra,Elvyn,953.39,14,Tehran
+Ginnie,Milde,210.01,65,Tucson
+Madalyn,Colp,966.38,69,Seville
+Corene,Kalinda,808,2,Port Blair
+Edee,Genna,322.77,76,Paramaribo
+Ada,Sikorski,863.4,86,Recife
+Noelle,Jehu,589.05,73,El Paso
+Sandie,Francyne,781.61,71,City of San Marino
+Jeanna,Joni,988.13,25,Hangzhou
+Bettine,Valerio,420.69,4,Makassar
+Alleen,Tybald,578.66,15,Colombo
+Diena,Merat,647.4,83,Riverside
+Cherilyn,Harriman,21.19,65,Nairobi
+Sam,Jena,557.69,7,Nantes
+Frank,Kellby,178.68,40,Forked River
+Mahalia,Parsaye,861.94,29,Malmö
+Carly,Richers,823.81,98,Sri Jayawardenapura-Kotte
+Cyb,Hamil,970.07,4,São José dos Campos
+Damaris,Chrystel,753.84,69,Arbil
+Frank,Serilda,438.69,27,Palembang
+Frieda,Florina,235.88,37,Port-au-Prince
+Correy,Munn,434.57,98,Gaziantep
+Paule,Korey,703.04,80,Tampere
+Hildegaard,Santoro,923.03,23,Lviv
+Oralee,Ammann,787.27,73,Mumbai
+Fayre,Han,698.2,99,Qingdao
+Angela,Salvidor,519.21,63,Kanpur
+Goldie,Helfand,552.26,86,Providence
+Barbi,Othilia,902.36,37,Hyderabad
+Carol-Jean,Berl,308.86,92,Dalian
+Nataline,Loring,812.07,47,Belmopan
+Zondra,Argus,490.6,10,Mandurah
+Aaren,Mathilde,812.86,15,Maracaibo
+Lacie,Thomasina,791.2,3,Nukulaelae
+Cathie,Giule,154.06,56,Turin
+Charmaine,Kesley,255.76,62,Manaus
+Zaria,Lytton,558.37,95,San Antonio
+Codie,Tristram,509.89,61,Phnom Penh
+Binny,Zeeba,671.99,39,Sabha
+Fayre,Dituri,547.19,84,Madrid
+Stacey,Iiette,188.84,65,Concepción
+Hermione,Bultman,56.26,14,Tampa
+Leona,Marisa,230.22,35,Tallinn
+Jessamyn,Daniele,891.56,96,Daegu
+Dulcinea,Dorine,818.8,18,Pago Pago
+Katleen,Kat,679.35,21,Berlin
+Maisey,Salchunas,854.25,20,Iloilo City
+Harmonia,Shuler,464.18,86,Dili
+Kary,Dash,807.87,31,Bamako
+Beverley,Arley,526.65,49,Hangzhou
+Kimmy,Ursulette,596.32,3,Lisbon
+Elmira,Frendel,527.41,69,St. George's
+Jeanna,Israeli,267.69,28,Chiang Mai
+Mallory,Wyn,961.77,55,Abu Dhabi
+Kylynn,Lowry,396.39,20,Jerusalem
+Tina,Karna,999.82,51,Nairobi
+Monika,Shelba,910.98,30,El Aaiún
+Mamie,Wind,293.75,80,Belfast
+Randa,Adalbert,775.65,73,Tijuana
+Iseabal,Thunell,831.22,42,Bogor
+Helsa,Pascia,622.28,29,Blantyre
+Marinna,Chesna,340.48,31,Pago Pago
+Betta,Thomasina,364.86,92,Kiev
+Cristabel,Toffic,250.54,86,Budapest
+Jeanna,Janith,632.93,75,Murmansk
+Marita,Lilas,687.03,81,Bissau
+Misha,Winnick,515.79,68,Cleveland
+Margette,Hoban,621.35,89,Santiago de Cuba
+Lonnie,Yusuk,942.86,97,Ürümqi
+Kara-Lynn,Glenden,973.3,64,Banda Aceh
+Marleah,Olympium,310.54,66,Skopje
+Concettina,Niccolo,274.54,79,Koulikoro
+Gilda,Gordon,444.58,93,Karachi
+Berta,Louanna,112.47,12,Pelotas
+Ginnie,Lacombe,458.24,31,Albuquerque
+Courtnay,Irmine,313.34,37,Tucson
+Rosene,Helve,226.36,93,Pristina
+Hettie,Crudden,68.68,47,Pekanbaru
+Meg,Heisel,413.51,69,Tel Aviv
+Sibella,Fancie,405.17,5,The Hague
+Angelique,Redmond,622.2,59,Sofia
+Tierney,Charmine,426.02,75,Houston
+Kaja,Nore,886.5,98,Brussels
+Paulita,Hessler,792.13,71,Mamoudzou
+Lily,Greenwald,932.33,71,Guwahati
+Riannon,Shuler,300.74,25,Thessaloniki
+Randa,Capello,741.63,68,Ahmedabad
+Belinda,Konyn,521.18,84,Phuket (city)
+Deirdre,Radu,890.73,4,Kandahar
+Talya,Johanna,847.64,85,Invercargill
+Mureil,Dichy,938.14,57,New Orleans
+Glynnis,Kaja,564.8,48,Amman
+Marcy,Quinn,971.14,31,Moscow
+Marcy,Kaete,29.46,93,Stuttgart
+Evita,Liva,453.39,73,Auckland
+Merry,Maples,803.95,10,City of Halifax
+Jean,Kare,135.75,35,Mérida
+Allyce,Sancho,598.96,80,Mogadishu
+Meriel,Eugenia,737.27,14,Kunming
+Lyssa,Lattie,143.45,15,Faisalabad
+Flo,Remmer,909.05,92,Indianapolis
+Jerry,Nahum,784.58,94,Libreville
+Gusella,Barbey,800.6,91,Chaguanas
+Yvonne,Egbert,846.91,26,Macapá
+Alia,Hurley,334.46,47,Amsterdam
+Brianna,Roscoe,674.22,92,Jersey City
+Phylis,Klemperer,154.53,7,Okinawa
+Marita,Cavan,783.8,7,Thiès
+Vita,Tice,637.72,12,Puerto Williams
+Viki,Henrie,397.51,93,Zapopan
+Dawn,Cloris,607.4,35,Busan
+Vita,Juliet,853.33,81,Bern
+Jere,Fadiman,630.71,79,Dakar
+Flo,Kylander,22.26,76,Belfast
+Arlina,Vastah,384.64,80,Veracruz
+Dulce,Tomasina,319.85,21,Busan
+Miquela,Wyn,817.06,92,Amman
+Zaria,Lewes,645.12,47,Bursa
+Fanny,Dannye,461.42,86,Toronto
+Amara,Tybald,143.4,92,Ndola
+Kellen,Lutero,857.36,89,Harare
+Madeleine,Vilma,752.76,83,Nizhny Novgorod
+Starla,Stefa,436.71,40,Suva
+Zia,Bow,562.35,70,Kraków
+Elena,O'Rourke,79.19,54,Accra
+Georgetta,Cornelia,255.79,36,Saint Petersburg
+Andeee,Monk,938.26,60,Toronto
+Gale,Fancie,218.69,53,Bamako
+Vivia,Vilma,230.53,99,Chittagong
+Josephine,Chauncey,201.85,75,Tartu
+Marleah,Irmine,703.37,85,Nuuk
+Johna,Ashely,79.88,76,Perth
+Myrtice,Mintz,164.61,83,Bulawayo
+Ardys,Millda,922.07,29,Harare
+Carolina,Denis,388.18,13,Tskhinvali
+Darci,Plato,258.35,88,Odessa
+Violet,Urias,466.67,50,Denpasar
+Raquela,Andrel,87.86,76,Fredericton
+Jinny,Ortrude,982.75,68,Chengdu
+Fidelia,Alejoa,265.13,93,Cork (city)
+Alisha,Hilbert,502.55,25,Detroit
+Fidelia,Adamsen,498.03,84,Ibiza
+Dotty,Lalitta,356.11,60,Praia
+Sheree,Reinke,834.85,54,Ouagadougou
+Stacey,Evangelia,28.19,85,Basra
+Kellen,Bergman,895,57,Hanover
+Alameda,Stelle,599.59,73,Innsbruck
+Raf,Garlinda,280.34,2,Maseru
+Hettie,Plato,541.39,71,Mérida
+Beverley,Bethany,203.44,61,Hilo
+Atlanta,Saint,668.56,43,Havana
+Nanete,Radu,823.1,45,Shanghai
+Carolina,Euridice,452.81,4,Abidjan
+Daphne,Yusuk,209.79,98,Port of Spain
+Agnese,Waite,315.78,100,Zapopan
+Andeee,Grosz,189.46,12,Rosario
+Nita,Meter,45.74,82,San Francisco
+Siana,Berne,809.49,34,Mata-Utu
+Aimil,Aloise,951.96,81,Port of Spain
+Tobe,McAdams,945.78,43,Bandar Seri Begawan
+Tarra,Maisey,184.18,9,Monaco
+Libbie,Brieta,97.03,11,Bilbao
+Lexine,Natica,919.66,61,Harbin
+Gertrud,Sharl,214.87,25,Almaty
+Antonietta,Jalbert,968.59,51,Paramaribo
+Harrietta,Stephie,210.58,90,Stanley
+Lauryn,Henebry,907.54,74,Naples
+Dede,Croix,599.28,82,Addis Ababa
+Esmeralda,Jary,408.2,2,Port Hedland
+Tarra,Hillel,28.87,91,The Hague
+Celisse,Rese,361.43,12,Los Angeles
+Nadine,Odell,203.21,33,Sarajevo
+Jaime,Richers,644.59,27,St. John's
+Bobinette,Shuler,737.01,87,Punta Arenas
+Carilyn,Hunfredo,495.95,4,Christchurch
+Ayn,Maribeth,846.68,15,Tegucigalpa
+Lanna,Strephon,577.12,17,Dunedin
+Edyth,Tryck,800.92,26,Chiang Mai
+Madalyn,Jerald,536.54,7,Las Vegas
+Eolanda,Mandler,398.18,54,Koulikoro
+Gilligan,Allys,251.29,13,Faisalabad
+Nikki,Belanger,11.95,81,Cleveland
+Philis,Roche,594.28,19,Dhaka
+Rani,Carey,203.01,49,Ankara
+Carmencita,Kronfeld,64.61,48,South Tarawa
+Laure,Cyrie,357.56,50,Thimphu
+Gerianna,Masao,275.48,57,Boa Vista
+Di,Kussell,90.75,8,Minsk
+Shandie,Alcott,645.31,27,Frankfurt
+Caryl,Boehike,849.67,93,Montevideo
+Loree,Lorain,323.19,89,Boston
+Johna,Lindemann,925.61,65,Kota Kinabalu
+Livvyy,Pierette,42.55,95,Nashville
+Paulita,Tannie,233.66,49,Manila
+Caryl,Drus,317.07,65,Warsaw
+Rubie,Daniele,98.32,82,Townsville
+Alia,Wallis,90.34,45,Bishkek
+Halette,Cloris,683.03,46,Nanning
+Fayre,Damarra,940.65,4,Glasgow
+Roslyn,Frendel,178.43,49,Kyoto
+Deedee,Leonard,265.11,85,Dibrugarh
+Charmaine,Laverne,873.22,3,Nukulaelae
+Linzy,Amadas,489.42,88,Yaren District
+Jolyn,Maples,30.28,86,Patna
+Olwen,Viddah,357.7,28,Valdivia
+Olivette,Lamoree,462.37,56,Patna
+Deirdre,Aprile,380.49,55,Sabha
+Meg,Juan,81.59,29,Adelaide
+Roberta,Bobbee,671.66,11,Lanzhou
+Carmela,Rudolph,607.55,57,Nizhny Novgorod
+Catharine,Ricki,875.43,79,Brussels
+Norine,Millda,957.65,24,Cologne
+Myriam,Cloris,87.67,98,Hagåtña
+Clary,Minetta,14.42,54,Dhaka
+Jenda,Arquit,554.71,24,Zürich
+Lolita,Kamaria,14.94,78,Bilbao
+Myriam,Marisa,910.69,7,Patna
+Diena,Rugen,896.31,89,Panama City
+Kara-Lynn,Lareena,221.29,56,Dakar
+Beth,Braun,502.77,33,Bangkok
+Cathie,Sharl,630.82,38,Port Said
+Regina,Yerkovich,271.05,91,Ciudad del Este
+Dennie,Ranjiv,44.5,94,Moscow
+Annora,Pip,403.46,57,Port of Spain
+Kirbee,Ietta,337.08,76,Manzini
+Tani,Percy,483.12,85,Ashgabat
+Alie,Pattin,769.99,44,Guangzhou
+Chrystel,Zaslow,884.99,46,Osaka
+Orelia,Seumas,736.94,73,Damascus
+Robinia,Mayeda,572.28,36,Paris
+Ebonee,Hebner,682.62,8,Madrid
+Elfreda,Erminia,525.12,68,Kobe
+Shell,Stephie,235.87,84,Busan
+Donnie,Colbert,486.18,87,Lahore
+Ann-Marie,Zetta,4.11,26,Shenzhen
+Lita,Aprile,238.06,83,Makassar
+Claudina,Adore,903.41,51,Adamstown
+Gloria,Matthew,973.36,73,Asmara
+Johna,Cecile,522.85,21,Bahía Blanca
+Blondelle,Brieta,224.25,23,Sabha
+Maye,Shanley,163.51,89,Wonsan
+Barbara,Cleavland,10.65,76,Rio de Janeiro
+Brandise,Hachmin,952.18,54,Forked River
+Nyssa,Munn,147.69,56,Thessaloniki
+Lizzie,Weinreb,324.69,34,Lahore
+Dorene,Percy,481.52,50,Ibadan
+Annabela,Vary,164.94,28,Tunis
+Chrystel,Concha,760.8,46,Lahore
+Olwen,Clie,468.37,95,Harbin
+Lily,Nunci,373.73,60,Dresden
+Lily,Sigfrid,330.92,36,Porto Alegre
+Lorie,Huggins,934.37,40,Pyongyang
+Henriette,Means,344.73,71,São Paulo
+Briney,Carbo,704.24,88,Jeddah
+Shaine,Hanleigh,57.05,45,Kota Bharu
+Gisela,Juliet,400.47,11,Pago Pago
+Shandie,Zola,890.02,38,Mamoudzou
+Gaylene,Weide,442.44,95,Buenos Aires
+Olivette,Abernon,889.05,58,Guayaquil
+Berget,Greyson,474.14,90,Stockholm
+Felice,Stoller,778.07,8,Vientiane
+Karina,Amadas,634.53,98,Alexandria
+Addia,Cornelia,888.02,100,Bogor
+Cristine,Lymann,916.25,93,Tehran
+Leanna,Tayib,550.64,24,Nanning
+Molli,Kylander,73.91,45,Kunming
+Tressa,LaRue,873.59,57,Douala
+Gabriellia,Sandye,598.89,23,Rio Branco
+Kristan,Vharat,631.89,55,Wollongong
+Jessamyn,Meter,853.94,52,Kanpur
+Ida,Stevy,530.23,90,Lanzhou
+Zondra,Joeann,285.78,83,Valparaíso
+Angelique,Fink,704,73,Cotonou
+Queenie,Roarke,696.88,17,Novosibirsk
+Merry,Llovera,765.86,72,Beijing
+June,Mullane,457.49,1,Pelotas
+Olivette,Toni,675.91,15,Paris
+Marguerite,Catie,77.62,44,Cannes
+Maud,Wildermuth,509.25,84,Longyearbyen
+Elora,Casimir,563.64,98,Port Blair
+Roxane,Argus,800.44,37,Port Elizabeth
+Kial,Sabella,940.83,41,Valparaíso
+Jerry,Zuzana,802.03,34,Tamale
+Sophia,Harriman,141.36,26,Antwerp
+Sheelagh,Kelula,468.6,97,Tskhinvali
+Ida,Waite,566.07,98,Cairo
+Goldie,Suk,825.91,84,Tel Aviv
+Selma,Allare,500.17,18,Miri
+Meg,Weaks,678.1,76,Whitehorse
+Joceline,Naashom,798.42,59,Nairobi
+Coral,Helfand,712.04,73,Busan
+Loree,Carmena,995.15,32,Mersin
+Chandra,Jacqui,668.92,66,Huế
+Merle,Rebecka,361.71,17,Sana'a
+Eadie,Munn,206.18,68,Mérida
+Ardenia,Schalles,708.07,62,Gaziantep
+Ethel,Emanuel,407.65,55,Quebec City
+Barbi,Seessel,105.93,56,Bandung
+Natka,Garlinda,657.65,27,Indianapolis
+Dolli,Susannah,849.08,11,Pittsburgh
+Lyssa,Lewes,716.48,9,Dongguan
+Willetta,Weaks,387.66,87,Port Vila
+Elmira,Scammon,368.9,70,Abu Dhabi
+Felice,Presber,993.38,85,Brisbane
+Heida,Chabot,523.29,56,Chongjin
+Joy,Lewes,389.7,64,Hanga Roa
+Gabriellia,Vharat,29.48,48,Saint John
+Dagmar,Marlie,127.04,80,Nanjing
+Maisey,Alrich,917.08,25,Makati City
+Marcelline,Herrera,63.7,71,Calama
+Livvyy,Whittaker,940.66,53,Abidjan
+Dorthy,Tice,323.31,14,Mbabane
+Gerianna,Schonfeld,509.98,41,The Hague
+Lorie,Yuille,581.17,93,Hai Phong
+Maridel,Carleen,583.06,22,Stuttgart
+Felice,Chobot,197.1,29,Moroni
+Carmela,Earlie,965.52,81,Basse-Terre
+Belinda,Colyer,773.15,24,Rabat
+Lily,Zamora,731.14,53,Aarhus
+Mallory,Ortrude,235.6,82,Arequipa
+Lanna,Bollay,602.39,37,Espoo
+Modestia,Atonsah,372.56,8,Johor Bahru
+Fernande,Lumbard,469.21,12,Winnipeg
+Alia,Ralfston,95.06,95,Skopje
+Sindee,Terrence,88.28,41,Cartagena
+Eadie,Ardeha,612.37,93,South Tarawa
+Glynnis,Nisbet,595.94,59,Samara
+Jacquetta,Lia,435.81,20,Zagreb
+Tatiania,Couture,715.01,55,Havana
+Gilligan,Chapland,487.69,47,Chengdu
+Miquela,Goldina,777.68,76,Fortaleza
+Merrie,Eiser,672.63,55,Nantes
+Lizzie,Madaih,994.59,77,Lahore
+Jere,Daveta,558.01,65,Tegucigalpa
+Cristabel,Noam,272.06,87,Valdivia
+Frieda,Birdella,878.24,24,Nanjing
+Aimil,Christal,68.24,52,Palikir
+Rubie,Jefferey,567.71,74,Ciudad del Este
+Tilly,Stilwell,617.18,40,Luxembourg (city)
+Sallie,Abbot,427.65,8,Kigali
+Raf,Hollingsworth,620.78,55,Lisbon
+Tori,Hessler,335.81,80,Budapest
+Yolane,Destinee,410.45,69,Bogotá
+Siana,Herrera,436.03,5,Las Vegas
+Tamqrah,Breed,80.54,41,Kingstown
+Ethel,Donoghue,881.82,37,Miami
+Nicoli,Rubie,703.59,97,Malang
+Leona,Ehrman,230.24,60,Lilongwe
+Emma,Kaja,245.74,3,Valencia
+Gui,Rustice,842.8,10,Amritsar
+Orelia,Sparhawk,879.17,69,Tskhinvali
+Kathy,Vharat,830.23,35,Hamburg
+Lilith,Jerald,3.72,4,Ottawa
+Andree,Halla,774.42,78,San Salvador
+Carree,Mathilde,549.84,51,Mbabane
+Viki,Chabot,145.55,94,Gaziantep
+Catharine,Ricki,207.48,44,Nantes
+Maurene,August,938.53,13,Guangzhou
+Alex,Waite,922.69,85,Hargeisa
+Rosene,Edee,671.67,70,Cape Town
+Rivalee,Deegan,481.78,23,Santa Cruz de la Sierra
+Perry,Demitria,387.07,62,Dushanbe
+Clary,Romelda,694.39,58,Dubai
+Teddie,Travax,896.42,16,Leipzig
+Natka,Bord,573.01,41,Samara
+Marjie,Huggins,102.62,26,San Salvador
+Theodora,Euridice,495.5,22,Blantyre
+Helsa,Gabrielli,359.16,53,Kuwait City
+Zsa Zsa,Hertzfeld,450.05,71,Christchurch
+Katuscha,Teryn,144.14,34,Minsk
+Max,Fitzsimmons,318.6,46,Apia
+Elbertina,Erich,812.68,46,Saint John
+Nicoli,Carbo,443.23,19,Podgorica
+Collen,Crudden,139.27,2,Zapopan
+Vonny,Palocz,826.99,73,Saint-Denis
+Lesly,Anyah,777.33,1,Tórshavn
+Zondra,Lacombe,691.32,13,Kuala Lumpur
+Cristine,Jorgan,672.16,89,Quito
+Kayla,Burnside,668.62,81,Tianjin
+Janeczka,Lubin,947.61,8,Rosario
+Kathi,Erskine,897.24,35,Miri
+Dari,Ricki,729.74,65,Pekanbaru
+Dennie,Constancy,700.25,2,Busan
+Kirbee,Rese,16.3,87,Kawasaki
+Margalo,Parsaye,872.82,62,Wuhan
+Caritta,Edmund,467.03,40,Lhasa
+Jillayne,Koehler,510.6,6,Port Said
+Clo,Syd,848.94,26,Canberra
+Dotty,McCutcheon,186.85,68,Nice
+Rori,Urania,761.05,32,Tiraspol
+Rhea,Socha,769.01,85,London
+Christal,Luhe,59.04,54,Denver
+Renie,Lamoree,84.5,85,Portland
+Lita,Garbe,458.46,47,Yaren District
+Sabina,Stilwell,507.24,30,Santa Cruz de Tenerife
+Gisela,Elvyn,598.88,23,Banjul
+Cherrita,Cleo,440.14,85,Nukus
+Tracey,Kirbee,713.07,45,Albuquerque
+Ninnetta,Neva,477.7,29,Whitehorse
+Arlina,Trey,696.72,86,Bratislava
+Pierette,Kelula,574.12,63,Rio Branco
+Courtnay,Montgomery,171.08,64,Maracaibo
+Dede,Rurik,662.12,71,Bursa
+Josephine,Zamora,348.64,23,Omdurman
+Ginnie,Auberbach,869.38,83,Nashville
+Nikki,Raffo,399.36,56,Taipei
+Fred,Dyche,795.5,47,Surabaya
+Kassey,Evangelia,951.72,88,Naples
+Aaren,Dearborn,290.49,52,Ushuaia
+Leeanne,Joseph,986.11,7,Tokyo
+Edyth,Ciro,434.76,22,San Fernando
+Blinni,Glovsky,214.21,39,Pretoria
+Gratia,Candy,428.14,56,Yerevan
+Patricia,Mintz,710.49,14,Lhasa
+Letizia,Prouty,756.42,37,Algiers
+Kerrin,Tannie,541.9,30,Oranjestad
+Bobinette,Auberbach,595.98,43,Tirana
+Kirbee,Viddah,518.58,23,Oranjestad
+Jobi,Damarra,820.02,40,Medellín
+Claresta,Hebner,654.12,28,Brikama
+Daune,Adrienne,403.4,72,Omsk
+Madeleine,Mich,225.67,64,Maseru
+Ayn,Chaing,374.78,78,Banjul
+Goldie,Yate,824.36,43,Nanning
+Rori,Angelis,687.45,37,Strasbourg
+Dagmar,Mallon,500.4,13,Geneva
+Jere,Iaverne,200.06,79,Mérida
+Katharina,Deegan,587.07,78,Beirut
+Elmira,Abernon,640.7,1,Cayenne
+Meg,Stoller,78.77,57,Gibraltar
+Lucille,Buttaro,788,70,Makati City
+Linet,Slifka,794.82,55,Ahmedabad
+Talya,Anestassia,997.77,77,Luxor
+Bettine,Sprage,778.03,30,Invercargill
+Fanny,Sacken,504.05,2,Geelong
+Sonni,Hunfredo,575.54,95,Kraków
+Alia,Teddman,529.9,6,Bandung
+Ruthe,Bigner,403.89,87,Tallinn
+Belinda,Saint,45.57,62,Okinawa
+Melodie,Codding,566.5,99,Stepanakert
+Jasmina,Hillel,63.67,28,Colombo
+Bobinette,Leler,652.84,39,Stockholm
+Robinia,Sawtelle,282.07,55,São Paulo
+Justinn,Niccolo,426.47,89,Da Nang
+Rori,Dom,632.8,93,Belmopan
+Madelle,Kendrick,594.91,90,Addis Ababa
+Philis,Joni,842.65,17,Belize City
+Mildrid,Percy,317.18,93,Colombo
+Anica,Johnsson,547.61,71,Harbin
+Elka,Radu,282.74,83,Perth
+Aurelie,Ferino,774.53,65,Mexico City
+Zondra,Pattin,668.96,75,Fort-de-France
+Ileana,Cimbura,737.35,69,Bridgetown
+Theodora,Sophronia,896.8,88,Majuro
+Misha,Orelee,366.06,60,Macau
+Thalia,Posner,819.32,39,Pretoria
+Mara,Arathorn,311.29,23,Cayenne
+Dominga,Ramona,876.15,84,Santiago de Cuba
+Bertine,Even,13.52,70,Copenhagen
+Hope,Graig,844.97,92,Cannes
+Paola,Lewes,114.61,24,Wollongong
+Nikki,Dermott,247.51,96,Hilo
+Sadie,Land,932.25,30,Columbus
+Sallie,Marsden,703.3,2,Tunis
+Anica,Stefa,496.69,41,Chengdu
+Julieta,Carvey,698.8,57,Fukuoka
+Janeczka,Seessel,487.27,70,Barcelona
+Demetris,Malvino,364.18,64,Copenhagen
+Bibby,Pillsbury,149.66,89,Omdurman
+Betta,Bonucci,201.16,24,Moroni
+Tani,Maples,706.79,18,Dammam
+Carmela,Nance,786.65,57,Lhasa
+Sarette,Center,137.62,71,Handan
+Georgetta,Whittaker,21.43,32,Saint-Denis
+Tabbatha,Vivle,971.99,5,Córdoba
+Bobinette,Ader,389.08,82,Ludhiana
+Marcy,Wu,978.39,92,Padang
+Karena,Bendick,276.97,72,Cuiabá
+Emilia,Heidt,558.51,76,Brisbane
+Andeee,Hepsibah,265.3,3,Caracas
+Constance,Brodench,408.89,32,Montevideo
+Pearline,Wattenberg,319.75,1,Kigali
+Rani,Adrienne,251.51,29,Port Vila
+Allyce,Erb,500.6,47,Paramaribo
+Kalina,Merriott,715.8,23,Qingdao
+Dominga,Solitta,714.41,80,Memphis
+Tybie,Laurianne,764.27,98,La Paz
+Jobi,Wandie,287.85,50,Port-au-Prince
+Deirdre,Zeeba,479.08,99,Brasília
+Juliane,Etom,781.46,2,Padang
+Maryellen,Tjon,236.59,93,Vilnius
+Marita,Eben,790.66,45,Mexicali
+Sam,Bow,741.81,74,Porto
+Regina,Plato,547.67,99,Semarang
+Sean,Burkle,281.23,98,Chennai
+Claresta,Sherrie,147.41,99,Brisbane
+Kristan,Rona,781.71,46,Banjul
+Rosene,Truc,357.9,10,St. Louis
+Aili,Gherardo,963.98,30,Mersin
+Clo,Heidt,647.94,72,Longyearbyen
+Oona,Bryna,606.8,3,Washington
+Bibby,Gavrila,800.26,96,Panama City
+Kittie,Lauraine,89.72,42,Tel Aviv
+Morganica,Francyne,235.29,23,Philadelphia
+Valli,Lareena,703.41,90,Nakhon Ratchasima
+Joleen,Birdella,733.2,27,Cartagena
+Noelle,Lumbard,421.29,45,Santo Domingo
+Susan,Ciapas,852.5,1,Detroit
+Louella,Richers,782.06,6,Phnom Penh
+Carmela,Stav,647.28,55,Porto-Novo
+Jackie,Milson,874.19,30,Cork (city)
+Tera,Norrie,279.75,60,Surat
+Lynea,Clarissa,998.09,54,Guangzhou
+Letizia,Marlie,183.08,36,Barranquilla
+Phylis,Rheingold,95.19,83,Austin
+Fanchon,Daveta,656.98,15,Jayapura
+Aimil,Garbe,736.12,66,Bogotá
+Shaine,Shields,848.55,54,Murmansk
+Caryl,Lalitta,836.92,12,Kandy
+Gerrie,Rheingold,10.17,83,Tel Aviv
+Shaylyn,Nickola,9.88,33,Asunción
+Max,Concha,130.99,49,Port Vila
+Kamilah,Brotherson,844.37,45,Nizhny Novgorod
+Deedee,Delp,855.26,90,Austin
+Layla,Gherardo,868.18,79,Port-au-Prince
+Kathi,Vastah,511.04,53,Arbil
+Shell,Bouchard,102.13,33,Chongqing
+Aubrie,Ashok,448.64,54,Cayenne
+Rosanne,Japeth,820.32,77,Rosario
+Sonni,Keily,640.08,57,Pretoria
+Jenilee,Terencio,881.66,60,Montreal
+Glynnis,Cath,844.21,19,Cork (city)
+Hildegaard,Valerio,579.03,10,Kyoto
+Ariela,Blake,530.4,99,Veracruz
+Alia,Irmine,609.1,87,Pyongyang
+Ulrike,Juliet,833.49,38,Simferopol
+Aurore,Dimitris,150.48,66,Cannes
+Celene,Ulphia,875.32,58,Zagreb
+Rubie,Strephon,702.4,65,Adelaide
+Nicoli,Grimbly,521.15,69,Handan
+Marika,Heisel,267,85,Hat Yai
+Lynnea,Velick,575.14,75,Chihuahua
+Ginnie,Corrine,342.34,17,Thimphu
+Lita,Nicoline,953.52,31,Yaoundé
+Concettina,Charmine,83.12,36,Perm
+Florie,Truc,166.7,100,Santiago de Cuba
+Ernesta,Radu,280.56,10,Honiara
+Carolina,Sharl,886.72,77,Zagreb
+Kimmy,Middleton,799.39,21,Harbin
+Celisse,Jethro,132.37,98,Prague
+Ilse,Juliet,126.46,97,Philadelphia
+Glenda,Stilwell,146.44,80,Abuja
+Bernardine,Thad,330.14,43,Sukhumi
+Amalie,Gemini,79.39,83,Kathmandu
+Ada,Zrike,93.62,30,Warsaw
+Arlena,Friede,787,15,Mata-Utu
+Kelly,Glenden,547.01,77,Ürümqi
+Loree,Orpah,757.74,56,Hobart
+Fawne,Bartlett,942.25,80,Malmö
+Jenilee,Holtz,663.2,42,Hanga Roa
+Korrie,Fillbert,115.5,98,Caracas
+Teddie,Vary,121.06,26,Jeddah
+Brianna,Raama,968.46,53,La Paz
+Nollie,Forrer,26.9,15,Cincinnati
+Deane,Giff,106.25,94,Maseru
+Kathi,Even,960.23,81,Cockburn Town
+Bettine,Dominy,277.18,74,Malacca Town
+Gavrielle,Stilwell,731.72,90,Managua
+Vita,Ruvolo,745.99,44,Austin
+Joelly,Pauly,246.08,16,Phoenix
+Cherilyn,Christine,443.31,56,Chicago
+Meriel,Winthorpe,267.5,10,Chongjin
+Ericka,Freddi,872.49,49,Tbilisi
+Jacquetta,Bennie,237.65,5,Bratsk
+Cecile,Casimir,804.29,73,Chiang Mai
+Lexine,Uund,530.63,11,Tampere
+Darci,Thunell,3.32,1,Assis
+Genovera,Halla,166.39,29,Paris
+Heida,Infield,403.47,55,Zapopan
+Elise,Dalli,310.87,90,Douglas
+Fayre,Kannry,158.84,34,Ndola
+Olwen,Pulsifer,346,3,Tehran
+Anallese,Pillsbury,635.55,44,Jersey City
+Ulrike,Fry,481.24,92,Mata-Utu
+Patricia,Gemini,406.47,69,Tashkent
+Jenilee,Cynar,216.56,22,Dublin
+Mady,Danby,506.73,3,Macau
+Donetta,Payson,361.21,68,Maputo
+Sabina,Norvol,199.8,77,Iquique
+Gilda,Selway,596.5,29,Tijuana
+Jillayne,Devlen,798.38,37,Zanzibar City
+Lanae,Rogerio,111.08,69,Geelong
+Priscilla,Anastatius,135.09,26,Barcelona
+Rosaline,Gusella,160.82,57,Labasa
+Myriam,Kare,517.84,84,Saipan
+Bernie,Thar,102.55,67,Norilsk
+Therine,Ursulette,523.7,39,Chişinău
+Lauryn,Lytton,623.02,31,Iquitos
+Layla,Andrel,324.82,29,St. John's
+Quintina,Adrienne,286.39,37,Yaoundé
+Estell,Federica,296.23,20,Jaipur
+Harrietta,Kannry,730.33,28,Handan
+Eolanda,Maroney,699.44,1,Lomé
+Vanessa,Sisile,551.45,12,Dalian
+Alia,Caitlin,268.98,25,Calama
+Carlie,Melan,276.11,13,Zhengzhou
+Edyth,Richers,452.5,19,Niamey
